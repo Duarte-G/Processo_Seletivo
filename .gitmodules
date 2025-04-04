@@ -1,0 +1,12 @@
+[submodule "Teste_de_WebScraping"]
+	path = Teste_de_WebScraping
+	url = https://github.com/Duarte-G/Teste_de_WebScraping.git
+[submodule "Teste_Transformacao_de_dados"]
+	path = Teste_Transformacao_de_dados
+	url = https://github.com/Duarte-G/Teste_Transformacao_de_dados.git
+[submodule "Teste_Banco_de_Dados"]
+	path = Teste_Banco_de_Dados
+	url = https://github.com/Duarte-G/Teste_Banco_de_Dados.git
+[submodule "Teste_API"]
+	path = Teste_API
+	url = https://github.com/Duarte-G/Teste_API.git
